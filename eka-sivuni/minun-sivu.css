@@ -1,0 +1,33 @@
+h1{
+    color:blueviolet;
+}
+
+body{
+    background-color: beige;
+    margin:auto;
+    max-width: 800px;
+}
+
+p{
+    font-family: Arial, sans-serif;
+}
+
+.fancy{
+    color:aqua;
+}
+
+#eka-laatikko{
+    background-color: slategray;
+    border: 20px solid burlywood;
+    border: 3px dotted red;
+}
+
+
+div{
+    background-color:lightgray;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
